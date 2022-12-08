@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(243, 155, 33);
+    padding: 5px;
+}
+section{
+    background-color: rgb(247, 191, 102);
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    list-style-image:url(square-outline.svg)
+   
+}
+.b{
+    list-style-image:url(checkbox-outline.svg)
+}
